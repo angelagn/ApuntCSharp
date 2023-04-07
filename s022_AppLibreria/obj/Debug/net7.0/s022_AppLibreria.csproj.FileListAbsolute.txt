@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s022_AppLibreria/bin/Debug/net7.0/s022_AppLibreria
+/home/angela/Escritorio/Apps/s022_AppLibreria/bin/Debug/net7.0/s022_AppLibreria.deps.json
+/home/angela/Escritorio/Apps/s022_AppLibreria/bin/Debug/net7.0/s022_AppLibreria.runtimeconfig.json
+/home/angela/Escritorio/Apps/s022_AppLibreria/bin/Debug/net7.0/s022_AppLibreria.dll
+/home/angela/Escritorio/Apps/s022_AppLibreria/bin/Debug/net7.0/s022_AppLibreria.pdb
+/home/angela/Escritorio/Apps/s022_AppLibreria/obj/Debug/net7.0/s022_AppLibreria.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s022_AppLibreria/obj/Debug/net7.0/s022_AppLibreria.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s022_AppLibreria/obj/Debug/net7.0/s022_AppLibreria.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s022_AppLibreria/obj/Debug/net7.0/s022_AppLibreria.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s022_AppLibreria/obj/Debug/net7.0/s022_AppLibreria.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s022_AppLibreria/obj/Debug/net7.0/s022_AppLibreria.dll
+/home/angela/Escritorio/Apps/s022_AppLibreria/obj/Debug/net7.0/refint/s022_AppLibreria.dll
+/home/angela/Escritorio/Apps/s022_AppLibreria/obj/Debug/net7.0/s022_AppLibreria.pdb
+/home/angela/Escritorio/Apps/s022_AppLibreria/obj/Debug/net7.0/s022_AppLibreria.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s022_AppLibreria/obj/Debug/net7.0/ref/s022_AppLibreria.dll
