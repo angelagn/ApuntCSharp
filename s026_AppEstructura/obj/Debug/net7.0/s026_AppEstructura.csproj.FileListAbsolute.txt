@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s026_AppEstructura/bin/Debug/net7.0/s026_AppEstructura
+/home/angela/Escritorio/Apps/s026_AppEstructura/bin/Debug/net7.0/s026_AppEstructura.deps.json
+/home/angela/Escritorio/Apps/s026_AppEstructura/bin/Debug/net7.0/s026_AppEstructura.runtimeconfig.json
+/home/angela/Escritorio/Apps/s026_AppEstructura/bin/Debug/net7.0/s026_AppEstructura.dll
+/home/angela/Escritorio/Apps/s026_AppEstructura/bin/Debug/net7.0/s026_AppEstructura.pdb
+/home/angela/Escritorio/Apps/s026_AppEstructura/obj/Debug/net7.0/s026_AppEstructura.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s026_AppEstructura/obj/Debug/net7.0/s026_AppEstructura.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s026_AppEstructura/obj/Debug/net7.0/s026_AppEstructura.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s026_AppEstructura/obj/Debug/net7.0/s026_AppEstructura.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s026_AppEstructura/obj/Debug/net7.0/s026_AppEstructura.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s026_AppEstructura/obj/Debug/net7.0/s026_AppEstructura.dll
+/home/angela/Escritorio/Apps/s026_AppEstructura/obj/Debug/net7.0/refint/s026_AppEstructura.dll
+/home/angela/Escritorio/Apps/s026_AppEstructura/obj/Debug/net7.0/s026_AppEstructura.pdb
+/home/angela/Escritorio/Apps/s026_AppEstructura/obj/Debug/net7.0/s026_AppEstructura.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s026_AppEstructura/obj/Debug/net7.0/ref/s026_AppEstructura.dll
