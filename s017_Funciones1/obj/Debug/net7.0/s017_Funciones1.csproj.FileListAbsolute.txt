@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s017_Funciones1/bin/Debug/net7.0/s017_Funciones1
+/home/angela/Escritorio/Apps/s017_Funciones1/bin/Debug/net7.0/s017_Funciones1.deps.json
+/home/angela/Escritorio/Apps/s017_Funciones1/bin/Debug/net7.0/s017_Funciones1.runtimeconfig.json
+/home/angela/Escritorio/Apps/s017_Funciones1/bin/Debug/net7.0/s017_Funciones1.dll
+/home/angela/Escritorio/Apps/s017_Funciones1/bin/Debug/net7.0/s017_Funciones1.pdb
+/home/angela/Escritorio/Apps/s017_Funciones1/obj/Debug/net7.0/s017_Funciones1.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s017_Funciones1/obj/Debug/net7.0/s017_Funciones1.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s017_Funciones1/obj/Debug/net7.0/s017_Funciones1.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s017_Funciones1/obj/Debug/net7.0/s017_Funciones1.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s017_Funciones1/obj/Debug/net7.0/s017_Funciones1.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s017_Funciones1/obj/Debug/net7.0/s017_Funciones1.dll
+/home/angela/Escritorio/Apps/s017_Funciones1/obj/Debug/net7.0/refint/s017_Funciones1.dll
+/home/angela/Escritorio/Apps/s017_Funciones1/obj/Debug/net7.0/s017_Funciones1.pdb
+/home/angela/Escritorio/Apps/s017_Funciones1/obj/Debug/net7.0/s017_Funciones1.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s017_Funciones1/obj/Debug/net7.0/ref/s017_Funciones1.dll
