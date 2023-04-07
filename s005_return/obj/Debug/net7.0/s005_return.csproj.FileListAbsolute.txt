@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s005_return/bin/Debug/net7.0/s005_return
+/home/angela/Escritorio/Apps/s005_return/bin/Debug/net7.0/s005_return.deps.json
+/home/angela/Escritorio/Apps/s005_return/bin/Debug/net7.0/s005_return.runtimeconfig.json
+/home/angela/Escritorio/Apps/s005_return/bin/Debug/net7.0/s005_return.dll
+/home/angela/Escritorio/Apps/s005_return/bin/Debug/net7.0/s005_return.pdb
+/home/angela/Escritorio/Apps/s005_return/obj/Debug/net7.0/s005_return.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s005_return/obj/Debug/net7.0/s005_return.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s005_return/obj/Debug/net7.0/s005_return.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s005_return/obj/Debug/net7.0/s005_return.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s005_return/obj/Debug/net7.0/s005_return.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s005_return/obj/Debug/net7.0/s005_return.dll
+/home/angela/Escritorio/Apps/s005_return/obj/Debug/net7.0/refint/s005_return.dll
+/home/angela/Escritorio/Apps/s005_return/obj/Debug/net7.0/s005_return.pdb
+/home/angela/Escritorio/Apps/s005_return/obj/Debug/net7.0/s005_return.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s005_return/obj/Debug/net7.0/ref/s005_return.dll
