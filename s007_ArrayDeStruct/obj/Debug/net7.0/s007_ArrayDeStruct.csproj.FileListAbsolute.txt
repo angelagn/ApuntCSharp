@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/bin/Debug/net7.0/s007_ArrayDeStruct
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/bin/Debug/net7.0/s007_ArrayDeStruct.deps.json
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/bin/Debug/net7.0/s007_ArrayDeStruct.runtimeconfig.json
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/bin/Debug/net7.0/s007_ArrayDeStruct.dll
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/bin/Debug/net7.0/s007_ArrayDeStruct.pdb
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/obj/Debug/net7.0/s007_ArrayDeStruct.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/obj/Debug/net7.0/s007_ArrayDeStruct.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/obj/Debug/net7.0/s007_ArrayDeStruct.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/obj/Debug/net7.0/s007_ArrayDeStruct.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/obj/Debug/net7.0/s007_ArrayDeStruct.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/obj/Debug/net7.0/s007_ArrayDeStruct.dll
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/obj/Debug/net7.0/refint/s007_ArrayDeStruct.dll
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/obj/Debug/net7.0/s007_ArrayDeStruct.pdb
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/obj/Debug/net7.0/s007_ArrayDeStruct.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s007_ArrayDeStruct/obj/Debug/net7.0/ref/s007_ArrayDeStruct.dll
