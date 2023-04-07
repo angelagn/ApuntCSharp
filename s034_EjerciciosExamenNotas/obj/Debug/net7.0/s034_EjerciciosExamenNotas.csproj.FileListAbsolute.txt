@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/bin/Debug/net7.0/s034_EjerciciosExamenNotas
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/bin/Debug/net7.0/s034_EjerciciosExamenNotas.deps.json
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/bin/Debug/net7.0/s034_EjerciciosExamenNotas.runtimeconfig.json
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/bin/Debug/net7.0/s034_EjerciciosExamenNotas.dll
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/bin/Debug/net7.0/s034_EjerciciosExamenNotas.pdb
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/obj/Debug/net7.0/s034_EjerciciosExamenNotas.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/obj/Debug/net7.0/s034_EjerciciosExamenNotas.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/obj/Debug/net7.0/s034_EjerciciosExamenNotas.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/obj/Debug/net7.0/s034_EjerciciosExamenNotas.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/obj/Debug/net7.0/s034_EjerciciosExamenNotas.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/obj/Debug/net7.0/s034_EjerciciosExamenNotas.dll
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/obj/Debug/net7.0/refint/s034_EjerciciosExamenNotas.dll
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/obj/Debug/net7.0/s034_EjerciciosExamenNotas.pdb
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/obj/Debug/net7.0/s034_EjerciciosExamenNotas.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s034_EjerciciosExamenNotas/obj/Debug/net7.0/ref/s034_EjerciciosExamenNotas.dll
