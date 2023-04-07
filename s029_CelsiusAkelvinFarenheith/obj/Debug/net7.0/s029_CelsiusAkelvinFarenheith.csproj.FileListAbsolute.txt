@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/bin/Debug/net7.0/s029_CelsiusAkelvinFarenheith
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/bin/Debug/net7.0/s029_CelsiusAkelvinFarenheith.deps.json
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/bin/Debug/net7.0/s029_CelsiusAkelvinFarenheith.runtimeconfig.json
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/bin/Debug/net7.0/s029_CelsiusAkelvinFarenheith.dll
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/bin/Debug/net7.0/s029_CelsiusAkelvinFarenheith.pdb
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/obj/Debug/net7.0/s029_CelsiusAkelvinFarenheith.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/obj/Debug/net7.0/s029_CelsiusAkelvinFarenheith.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/obj/Debug/net7.0/s029_CelsiusAkelvinFarenheith.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/obj/Debug/net7.0/s029_CelsiusAkelvinFarenheith.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/obj/Debug/net7.0/s029_CelsiusAkelvinFarenheith.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/obj/Debug/net7.0/s029_CelsiusAkelvinFarenheith.dll
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/obj/Debug/net7.0/refint/s029_CelsiusAkelvinFarenheith.dll
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/obj/Debug/net7.0/s029_CelsiusAkelvinFarenheith.pdb
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/obj/Debug/net7.0/s029_CelsiusAkelvinFarenheith.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s029_CelsiusAkelvinFarenheith/obj/Debug/net7.0/ref/s029_CelsiusAkelvinFarenheith.dll
