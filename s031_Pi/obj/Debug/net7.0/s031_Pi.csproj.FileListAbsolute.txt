@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s031_Pi/bin/Debug/net7.0/s031_Pi
+/home/angela/Escritorio/Apps/s031_Pi/bin/Debug/net7.0/s031_Pi.deps.json
+/home/angela/Escritorio/Apps/s031_Pi/bin/Debug/net7.0/s031_Pi.runtimeconfig.json
+/home/angela/Escritorio/Apps/s031_Pi/bin/Debug/net7.0/s031_Pi.dll
+/home/angela/Escritorio/Apps/s031_Pi/bin/Debug/net7.0/s031_Pi.pdb
+/home/angela/Escritorio/Apps/s031_Pi/obj/Debug/net7.0/s031_Pi.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s031_Pi/obj/Debug/net7.0/s031_Pi.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s031_Pi/obj/Debug/net7.0/s031_Pi.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s031_Pi/obj/Debug/net7.0/s031_Pi.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s031_Pi/obj/Debug/net7.0/s031_Pi.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s031_Pi/obj/Debug/net7.0/s031_Pi.dll
+/home/angela/Escritorio/Apps/s031_Pi/obj/Debug/net7.0/refint/s031_Pi.dll
+/home/angela/Escritorio/Apps/s031_Pi/obj/Debug/net7.0/s031_Pi.pdb
+/home/angela/Escritorio/Apps/s031_Pi/obj/Debug/net7.0/s031_Pi.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s031_Pi/obj/Debug/net7.0/ref/s031_Pi.dll
