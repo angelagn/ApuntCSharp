@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s015_Enum/bin/Debug/net7.0/s015_Enum
+/home/angela/Escritorio/Apps/s015_Enum/bin/Debug/net7.0/s015_Enum.deps.json
+/home/angela/Escritorio/Apps/s015_Enum/bin/Debug/net7.0/s015_Enum.runtimeconfig.json
+/home/angela/Escritorio/Apps/s015_Enum/bin/Debug/net7.0/s015_Enum.dll
+/home/angela/Escritorio/Apps/s015_Enum/bin/Debug/net7.0/s015_Enum.pdb
+/home/angela/Escritorio/Apps/s015_Enum/obj/Debug/net7.0/s015_Enum.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s015_Enum/obj/Debug/net7.0/s015_Enum.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s015_Enum/obj/Debug/net7.0/s015_Enum.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s015_Enum/obj/Debug/net7.0/s015_Enum.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s015_Enum/obj/Debug/net7.0/s015_Enum.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s015_Enum/obj/Debug/net7.0/s015_Enum.dll
+/home/angela/Escritorio/Apps/s015_Enum/obj/Debug/net7.0/refint/s015_Enum.dll
+/home/angela/Escritorio/Apps/s015_Enum/obj/Debug/net7.0/s015_Enum.pdb
+/home/angela/Escritorio/Apps/s015_Enum/obj/Debug/net7.0/s015_Enum.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s015_Enum/obj/Debug/net7.0/ref/s015_Enum.dll
