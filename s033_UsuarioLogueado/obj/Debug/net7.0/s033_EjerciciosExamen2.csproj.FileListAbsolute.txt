@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/bin/Debug/net7.0/s033_EjerciciosExamen2
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/bin/Debug/net7.0/s033_EjerciciosExamen2.deps.json
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/bin/Debug/net7.0/s033_EjerciciosExamen2.runtimeconfig.json
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/bin/Debug/net7.0/s033_EjerciciosExamen2.dll
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/bin/Debug/net7.0/s033_EjerciciosExamen2.pdb
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/obj/Debug/net7.0/s033_EjerciciosExamen2.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/obj/Debug/net7.0/s033_EjerciciosExamen2.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/obj/Debug/net7.0/s033_EjerciciosExamen2.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/obj/Debug/net7.0/s033_EjerciciosExamen2.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/obj/Debug/net7.0/s033_EjerciciosExamen2.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/obj/Debug/net7.0/s033_EjerciciosExamen2.dll
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/obj/Debug/net7.0/refint/s033_EjerciciosExamen2.dll
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/obj/Debug/net7.0/s033_EjerciciosExamen2.pdb
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/obj/Debug/net7.0/s033_EjerciciosExamen2.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s033_EjerciciosExamen2/obj/Debug/net7.0/ref/s033_EjerciciosExamen2.dll
