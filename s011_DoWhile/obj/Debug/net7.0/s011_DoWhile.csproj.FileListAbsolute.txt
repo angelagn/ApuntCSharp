@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s011_DoWhile/bin/Debug/net7.0/s011_DoWhile
+/home/angela/Escritorio/Apps/s011_DoWhile/bin/Debug/net7.0/s011_DoWhile.deps.json
+/home/angela/Escritorio/Apps/s011_DoWhile/bin/Debug/net7.0/s011_DoWhile.runtimeconfig.json
+/home/angela/Escritorio/Apps/s011_DoWhile/bin/Debug/net7.0/s011_DoWhile.dll
+/home/angela/Escritorio/Apps/s011_DoWhile/bin/Debug/net7.0/s011_DoWhile.pdb
+/home/angela/Escritorio/Apps/s011_DoWhile/obj/Debug/net7.0/s011_DoWhile.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s011_DoWhile/obj/Debug/net7.0/s011_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s011_DoWhile/obj/Debug/net7.0/s011_DoWhile.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s011_DoWhile/obj/Debug/net7.0/s011_DoWhile.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s011_DoWhile/obj/Debug/net7.0/s011_DoWhile.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s011_DoWhile/obj/Debug/net7.0/s011_DoWhile.dll
+/home/angela/Escritorio/Apps/s011_DoWhile/obj/Debug/net7.0/refint/s011_DoWhile.dll
+/home/angela/Escritorio/Apps/s011_DoWhile/obj/Debug/net7.0/s011_DoWhile.pdb
+/home/angela/Escritorio/Apps/s011_DoWhile/obj/Debug/net7.0/s011_DoWhile.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s011_DoWhile/obj/Debug/net7.0/ref/s011_DoWhile.dll
