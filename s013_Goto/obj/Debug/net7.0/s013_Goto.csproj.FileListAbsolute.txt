@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s013_Goto/bin/Debug/net7.0/s013_Goto
+/home/angela/Escritorio/Apps/s013_Goto/bin/Debug/net7.0/s013_Goto.deps.json
+/home/angela/Escritorio/Apps/s013_Goto/bin/Debug/net7.0/s013_Goto.runtimeconfig.json
+/home/angela/Escritorio/Apps/s013_Goto/bin/Debug/net7.0/s013_Goto.dll
+/home/angela/Escritorio/Apps/s013_Goto/bin/Debug/net7.0/s013_Goto.pdb
+/home/angela/Escritorio/Apps/s013_Goto/obj/Debug/net7.0/s013_Goto.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s013_Goto/obj/Debug/net7.0/s013_Goto.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s013_Goto/obj/Debug/net7.0/s013_Goto.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s013_Goto/obj/Debug/net7.0/s013_Goto.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s013_Goto/obj/Debug/net7.0/s013_Goto.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s013_Goto/obj/Debug/net7.0/s013_Goto.dll
+/home/angela/Escritorio/Apps/s013_Goto/obj/Debug/net7.0/refint/s013_Goto.dll
+/home/angela/Escritorio/Apps/s013_Goto/obj/Debug/net7.0/s013_Goto.pdb
+/home/angela/Escritorio/Apps/s013_Goto/obj/Debug/net7.0/s013_Goto.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s013_Goto/obj/Debug/net7.0/ref/s013_Goto.dll
