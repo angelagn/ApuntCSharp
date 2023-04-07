@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "s030_InvertirLetras/1.0.0": {
+        "runtime": {
+          "s030_InvertirLetras.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "s030_InvertirLetras/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

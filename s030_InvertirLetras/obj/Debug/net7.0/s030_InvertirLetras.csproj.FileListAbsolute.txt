@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s030_InvertirLetras/bin/Debug/net7.0/s030_InvertirLetras
+/home/angela/Escritorio/Apps/s030_InvertirLetras/bin/Debug/net7.0/s030_InvertirLetras.deps.json
+/home/angela/Escritorio/Apps/s030_InvertirLetras/bin/Debug/net7.0/s030_InvertirLetras.runtimeconfig.json
+/home/angela/Escritorio/Apps/s030_InvertirLetras/bin/Debug/net7.0/s030_InvertirLetras.dll
+/home/angela/Escritorio/Apps/s030_InvertirLetras/bin/Debug/net7.0/s030_InvertirLetras.pdb
+/home/angela/Escritorio/Apps/s030_InvertirLetras/obj/Debug/net7.0/s030_InvertirLetras.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s030_InvertirLetras/obj/Debug/net7.0/s030_InvertirLetras.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s030_InvertirLetras/obj/Debug/net7.0/s030_InvertirLetras.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s030_InvertirLetras/obj/Debug/net7.0/s030_InvertirLetras.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s030_InvertirLetras/obj/Debug/net7.0/s030_InvertirLetras.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s030_InvertirLetras/obj/Debug/net7.0/s030_InvertirLetras.dll
+/home/angela/Escritorio/Apps/s030_InvertirLetras/obj/Debug/net7.0/refint/s030_InvertirLetras.dll
+/home/angela/Escritorio/Apps/s030_InvertirLetras/obj/Debug/net7.0/s030_InvertirLetras.pdb
+/home/angela/Escritorio/Apps/s030_InvertirLetras/obj/Debug/net7.0/s030_InvertirLetras.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s030_InvertirLetras/obj/Debug/net7.0/ref/s030_InvertirLetras.dll
