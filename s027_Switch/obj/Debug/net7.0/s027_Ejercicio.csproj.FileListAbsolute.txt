@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s027_Ejercicio/bin/Debug/net7.0/s027_Ejercicio
+/home/angela/Escritorio/Apps/s027_Ejercicio/bin/Debug/net7.0/s027_Ejercicio.deps.json
+/home/angela/Escritorio/Apps/s027_Ejercicio/bin/Debug/net7.0/s027_Ejercicio.runtimeconfig.json
+/home/angela/Escritorio/Apps/s027_Ejercicio/bin/Debug/net7.0/s027_Ejercicio.dll
+/home/angela/Escritorio/Apps/s027_Ejercicio/bin/Debug/net7.0/s027_Ejercicio.pdb
+/home/angela/Escritorio/Apps/s027_Ejercicio/obj/Debug/net7.0/s027_Ejercicio.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s027_Ejercicio/obj/Debug/net7.0/s027_Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s027_Ejercicio/obj/Debug/net7.0/s027_Ejercicio.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s027_Ejercicio/obj/Debug/net7.0/s027_Ejercicio.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s027_Ejercicio/obj/Debug/net7.0/s027_Ejercicio.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s027_Ejercicio/obj/Debug/net7.0/s027_Ejercicio.dll
+/home/angela/Escritorio/Apps/s027_Ejercicio/obj/Debug/net7.0/refint/s027_Ejercicio.dll
+/home/angela/Escritorio/Apps/s027_Ejercicio/obj/Debug/net7.0/s027_Ejercicio.pdb
+/home/angela/Escritorio/Apps/s027_Ejercicio/obj/Debug/net7.0/s027_Ejercicio.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s027_Ejercicio/obj/Debug/net7.0/ref/s027_Ejercicio.dll
