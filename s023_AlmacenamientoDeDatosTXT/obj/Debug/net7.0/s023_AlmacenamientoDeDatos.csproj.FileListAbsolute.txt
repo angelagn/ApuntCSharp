@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/bin/Debug/net7.0/s023_AlmacenamientoDeDatos
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/bin/Debug/net7.0/s023_AlmacenamientoDeDatos.deps.json
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/bin/Debug/net7.0/s023_AlmacenamientoDeDatos.runtimeconfig.json
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/bin/Debug/net7.0/s023_AlmacenamientoDeDatos.dll
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/bin/Debug/net7.0/s023_AlmacenamientoDeDatos.pdb
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/obj/Debug/net7.0/s023_AlmacenamientoDeDatos.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/obj/Debug/net7.0/s023_AlmacenamientoDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/obj/Debug/net7.0/s023_AlmacenamientoDeDatos.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/obj/Debug/net7.0/s023_AlmacenamientoDeDatos.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/obj/Debug/net7.0/s023_AlmacenamientoDeDatos.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/obj/Debug/net7.0/s023_AlmacenamientoDeDatos.dll
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/obj/Debug/net7.0/refint/s023_AlmacenamientoDeDatos.dll
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/obj/Debug/net7.0/s023_AlmacenamientoDeDatos.pdb
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/obj/Debug/net7.0/s023_AlmacenamientoDeDatos.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s023_AlmacenamientoDeDatos/obj/Debug/net7.0/ref/s023_AlmacenamientoDeDatos.dll

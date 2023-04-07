@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "s023_AlmacenamientoDeDatos/1.0.0": {
+        "runtime": {
+          "s023_AlmacenamientoDeDatos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "s023_AlmacenamientoDeDatos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
