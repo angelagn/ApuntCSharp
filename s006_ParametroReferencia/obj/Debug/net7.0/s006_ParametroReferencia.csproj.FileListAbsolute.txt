@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/bin/Debug/net7.0/s006_ParametroReferencia
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/bin/Debug/net7.0/s006_ParametroReferencia.deps.json
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/bin/Debug/net7.0/s006_ParametroReferencia.runtimeconfig.json
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/bin/Debug/net7.0/s006_ParametroReferencia.dll
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/bin/Debug/net7.0/s006_ParametroReferencia.pdb
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/obj/Debug/net7.0/s006_ParametroReferencia.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/obj/Debug/net7.0/s006_ParametroReferencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/obj/Debug/net7.0/s006_ParametroReferencia.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/obj/Debug/net7.0/s006_ParametroReferencia.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/obj/Debug/net7.0/s006_ParametroReferencia.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/obj/Debug/net7.0/s006_ParametroReferencia.dll
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/obj/Debug/net7.0/refint/s006_ParametroReferencia.dll
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/obj/Debug/net7.0/s006_ParametroReferencia.pdb
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/obj/Debug/net7.0/s006_ParametroReferencia.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s006_ParametroReferencia/obj/Debug/net7.0/ref/s006_ParametroReferencia.dll
