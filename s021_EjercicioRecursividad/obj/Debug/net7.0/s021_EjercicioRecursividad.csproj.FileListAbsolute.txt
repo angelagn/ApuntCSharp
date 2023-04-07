@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/bin/Debug/net7.0/s021_EjercicioRecursividad
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/bin/Debug/net7.0/s021_EjercicioRecursividad.deps.json
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/bin/Debug/net7.0/s021_EjercicioRecursividad.runtimeconfig.json
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/bin/Debug/net7.0/s021_EjercicioRecursividad.dll
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/bin/Debug/net7.0/s021_EjercicioRecursividad.pdb
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/obj/Debug/net7.0/s021_EjercicioRecursividad.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/obj/Debug/net7.0/s021_EjercicioRecursividad.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/obj/Debug/net7.0/s021_EjercicioRecursividad.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/obj/Debug/net7.0/s021_EjercicioRecursividad.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/obj/Debug/net7.0/s021_EjercicioRecursividad.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/obj/Debug/net7.0/s021_EjercicioRecursividad.dll
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/obj/Debug/net7.0/refint/s021_EjercicioRecursividad.dll
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/obj/Debug/net7.0/s021_EjercicioRecursividad.pdb
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/obj/Debug/net7.0/s021_EjercicioRecursividad.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s021_EjercicioRecursividad/obj/Debug/net7.0/ref/s021_EjercicioRecursividad.dll
