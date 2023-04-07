@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/Ejercicio3/bin/Debug/net7.0/Ejercicio3
+/home/angela/Escritorio/Apps/Ejercicio3/bin/Debug/net7.0/Ejercicio3.deps.json
+/home/angela/Escritorio/Apps/Ejercicio3/bin/Debug/net7.0/Ejercicio3.runtimeconfig.json
+/home/angela/Escritorio/Apps/Ejercicio3/bin/Debug/net7.0/Ejercicio3.dll
+/home/angela/Escritorio/Apps/Ejercicio3/bin/Debug/net7.0/Ejercicio3.pdb
+/home/angela/Escritorio/Apps/Ejercicio3/obj/Debug/net7.0/Ejercicio3.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/Ejercicio3/obj/Debug/net7.0/Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/Ejercicio3/obj/Debug/net7.0/Ejercicio3.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/Ejercicio3/obj/Debug/net7.0/Ejercicio3.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/Ejercicio3/obj/Debug/net7.0/Ejercicio3.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/Ejercicio3/obj/Debug/net7.0/Ejercicio3.dll
+/home/angela/Escritorio/Apps/Ejercicio3/obj/Debug/net7.0/refint/Ejercicio3.dll
+/home/angela/Escritorio/Apps/Ejercicio3/obj/Debug/net7.0/Ejercicio3.pdb
+/home/angela/Escritorio/Apps/Ejercicio3/obj/Debug/net7.0/Ejercicio3.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/Ejercicio3/obj/Debug/net7.0/ref/Ejercicio3.dll
