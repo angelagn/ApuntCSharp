@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/bin/Debug/net7.0/s020_EjercicioFunciones
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/bin/Debug/net7.0/s020_EjercicioFunciones.deps.json
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/bin/Debug/net7.0/s020_EjercicioFunciones.runtimeconfig.json
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/bin/Debug/net7.0/s020_EjercicioFunciones.dll
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/bin/Debug/net7.0/s020_EjercicioFunciones.pdb
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/obj/Debug/net7.0/s020_EjercicioFunciones.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/obj/Debug/net7.0/s020_EjercicioFunciones.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/obj/Debug/net7.0/s020_EjercicioFunciones.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/obj/Debug/net7.0/s020_EjercicioFunciones.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/obj/Debug/net7.0/s020_EjercicioFunciones.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/obj/Debug/net7.0/s020_EjercicioFunciones.dll
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/obj/Debug/net7.0/refint/s020_EjercicioFunciones.dll
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/obj/Debug/net7.0/s020_EjercicioFunciones.pdb
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/obj/Debug/net7.0/s020_EjercicioFunciones.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s020_EjercicioFunciones/obj/Debug/net7.0/ref/s020_EjercicioFunciones.dll
