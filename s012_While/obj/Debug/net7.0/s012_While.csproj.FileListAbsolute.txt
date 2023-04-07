@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/s012_While/bin/Debug/net7.0/s012_While
+/home/angela/Escritorio/Apps/s012_While/bin/Debug/net7.0/s012_While.deps.json
+/home/angela/Escritorio/Apps/s012_While/bin/Debug/net7.0/s012_While.runtimeconfig.json
+/home/angela/Escritorio/Apps/s012_While/bin/Debug/net7.0/s012_While.dll
+/home/angela/Escritorio/Apps/s012_While/bin/Debug/net7.0/s012_While.pdb
+/home/angela/Escritorio/Apps/s012_While/obj/Debug/net7.0/s012_While.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/s012_While/obj/Debug/net7.0/s012_While.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/s012_While/obj/Debug/net7.0/s012_While.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/s012_While/obj/Debug/net7.0/s012_While.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/s012_While/obj/Debug/net7.0/s012_While.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/s012_While/obj/Debug/net7.0/s012_While.dll
+/home/angela/Escritorio/Apps/s012_While/obj/Debug/net7.0/refint/s012_While.dll
+/home/angela/Escritorio/Apps/s012_While/obj/Debug/net7.0/s012_While.pdb
+/home/angela/Escritorio/Apps/s012_While/obj/Debug/net7.0/s012_While.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/s012_While/obj/Debug/net7.0/ref/s012_While.dll
