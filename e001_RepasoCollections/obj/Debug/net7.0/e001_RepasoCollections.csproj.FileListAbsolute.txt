@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e001_RepasoCollections/bin/Debug/net7.0/e001_RepasoCollections
+/home/angela/Escritorio/Apps/e001_RepasoCollections/bin/Debug/net7.0/e001_RepasoCollections.deps.json
+/home/angela/Escritorio/Apps/e001_RepasoCollections/bin/Debug/net7.0/e001_RepasoCollections.runtimeconfig.json
+/home/angela/Escritorio/Apps/e001_RepasoCollections/bin/Debug/net7.0/e001_RepasoCollections.dll
+/home/angela/Escritorio/Apps/e001_RepasoCollections/bin/Debug/net7.0/e001_RepasoCollections.pdb
+/home/angela/Escritorio/Apps/e001_RepasoCollections/obj/Debug/net7.0/e001_RepasoCollections.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e001_RepasoCollections/obj/Debug/net7.0/e001_RepasoCollections.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e001_RepasoCollections/obj/Debug/net7.0/e001_RepasoCollections.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e001_RepasoCollections/obj/Debug/net7.0/e001_RepasoCollections.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e001_RepasoCollections/obj/Debug/net7.0/e001_RepasoCollections.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e001_RepasoCollections/obj/Debug/net7.0/e001_RepasoCollections.dll
+/home/angela/Escritorio/Apps/e001_RepasoCollections/obj/Debug/net7.0/refint/e001_RepasoCollections.dll
+/home/angela/Escritorio/Apps/e001_RepasoCollections/obj/Debug/net7.0/e001_RepasoCollections.pdb
+/home/angela/Escritorio/Apps/e001_RepasoCollections/obj/Debug/net7.0/e001_RepasoCollections.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e001_RepasoCollections/obj/Debug/net7.0/ref/e001_RepasoCollections.dll
