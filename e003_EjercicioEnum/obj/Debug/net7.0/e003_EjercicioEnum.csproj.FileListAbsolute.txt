@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/bin/Debug/net7.0/e003_EjercicioEnum
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/bin/Debug/net7.0/e003_EjercicioEnum.deps.json
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/bin/Debug/net7.0/e003_EjercicioEnum.runtimeconfig.json
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/bin/Debug/net7.0/e003_EjercicioEnum.dll
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/bin/Debug/net7.0/e003_EjercicioEnum.pdb
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/obj/Debug/net7.0/e003_EjercicioEnum.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/obj/Debug/net7.0/e003_EjercicioEnum.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/obj/Debug/net7.0/e003_EjercicioEnum.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/obj/Debug/net7.0/e003_EjercicioEnum.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/obj/Debug/net7.0/e003_EjercicioEnum.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/obj/Debug/net7.0/e003_EjercicioEnum.dll
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/obj/Debug/net7.0/refint/e003_EjercicioEnum.dll
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/obj/Debug/net7.0/e003_EjercicioEnum.pdb
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/obj/Debug/net7.0/e003_EjercicioEnum.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e003_EjercicioEnum/obj/Debug/net7.0/ref/e003_EjercicioEnum.dll
