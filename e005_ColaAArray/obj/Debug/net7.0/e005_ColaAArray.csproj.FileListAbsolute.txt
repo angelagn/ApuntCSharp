@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e005_ColaAArray/bin/Debug/net7.0/e005_ColaAArray
+/home/angela/Escritorio/Apps/e005_ColaAArray/bin/Debug/net7.0/e005_ColaAArray.deps.json
+/home/angela/Escritorio/Apps/e005_ColaAArray/bin/Debug/net7.0/e005_ColaAArray.runtimeconfig.json
+/home/angela/Escritorio/Apps/e005_ColaAArray/bin/Debug/net7.0/e005_ColaAArray.dll
+/home/angela/Escritorio/Apps/e005_ColaAArray/bin/Debug/net7.0/e005_ColaAArray.pdb
+/home/angela/Escritorio/Apps/e005_ColaAArray/obj/Debug/net7.0/e005_ColaAArray.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e005_ColaAArray/obj/Debug/net7.0/e005_ColaAArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e005_ColaAArray/obj/Debug/net7.0/e005_ColaAArray.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e005_ColaAArray/obj/Debug/net7.0/e005_ColaAArray.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e005_ColaAArray/obj/Debug/net7.0/e005_ColaAArray.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e005_ColaAArray/obj/Debug/net7.0/e005_ColaAArray.dll
+/home/angela/Escritorio/Apps/e005_ColaAArray/obj/Debug/net7.0/refint/e005_ColaAArray.dll
+/home/angela/Escritorio/Apps/e005_ColaAArray/obj/Debug/net7.0/e005_ColaAArray.pdb
+/home/angela/Escritorio/Apps/e005_ColaAArray/obj/Debug/net7.0/e005_ColaAArray.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e005_ColaAArray/obj/Debug/net7.0/ref/e005_ColaAArray.dll
