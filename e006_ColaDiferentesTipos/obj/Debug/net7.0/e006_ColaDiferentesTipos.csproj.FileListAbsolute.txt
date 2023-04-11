@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/bin/Debug/net7.0/e006_ColaDiferentesTipos
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/bin/Debug/net7.0/e006_ColaDiferentesTipos.deps.json
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/bin/Debug/net7.0/e006_ColaDiferentesTipos.runtimeconfig.json
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/bin/Debug/net7.0/e006_ColaDiferentesTipos.dll
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/bin/Debug/net7.0/e006_ColaDiferentesTipos.pdb
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/obj/Debug/net7.0/e006_ColaDiferentesTipos.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/obj/Debug/net7.0/e006_ColaDiferentesTipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/obj/Debug/net7.0/e006_ColaDiferentesTipos.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/obj/Debug/net7.0/e006_ColaDiferentesTipos.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/obj/Debug/net7.0/e006_ColaDiferentesTipos.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/obj/Debug/net7.0/e006_ColaDiferentesTipos.dll
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/obj/Debug/net7.0/refint/e006_ColaDiferentesTipos.dll
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/obj/Debug/net7.0/e006_ColaDiferentesTipos.pdb
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/obj/Debug/net7.0/e006_ColaDiferentesTipos.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e006_ColaDiferentesTipos/obj/Debug/net7.0/ref/e006_ColaDiferentesTipos.dll

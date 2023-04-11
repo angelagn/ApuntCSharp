@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "e006_ColaDiferentesTipos/1.0.0": {
+        "runtime": {
+          "e006_ColaDiferentesTipos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "e006_ColaDiferentesTipos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

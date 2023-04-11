@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/bin/Debug/net7.0/e008_DatosTrabajador
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/bin/Debug/net7.0/e008_DatosTrabajador.deps.json
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/bin/Debug/net7.0/e008_DatosTrabajador.runtimeconfig.json
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/bin/Debug/net7.0/e008_DatosTrabajador.dll
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/bin/Debug/net7.0/e008_DatosTrabajador.pdb
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/obj/Debug/net7.0/e008_DatosTrabajador.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/obj/Debug/net7.0/e008_DatosTrabajador.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/obj/Debug/net7.0/e008_DatosTrabajador.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/obj/Debug/net7.0/e008_DatosTrabajador.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/obj/Debug/net7.0/e008_DatosTrabajador.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/obj/Debug/net7.0/e008_DatosTrabajador.dll
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/obj/Debug/net7.0/refint/e008_DatosTrabajador.dll
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/obj/Debug/net7.0/e008_DatosTrabajador.pdb
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/obj/Debug/net7.0/e008_DatosTrabajador.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e008_DatosTrabajador/obj/Debug/net7.0/ref/e008_DatosTrabajador.dll
