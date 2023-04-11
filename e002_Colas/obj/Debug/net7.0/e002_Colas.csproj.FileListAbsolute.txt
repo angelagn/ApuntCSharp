@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e002_Colas/bin/Debug/net7.0/e002_Colas
+/home/angela/Escritorio/Apps/e002_Colas/bin/Debug/net7.0/e002_Colas.deps.json
+/home/angela/Escritorio/Apps/e002_Colas/bin/Debug/net7.0/e002_Colas.runtimeconfig.json
+/home/angela/Escritorio/Apps/e002_Colas/bin/Debug/net7.0/e002_Colas.dll
+/home/angela/Escritorio/Apps/e002_Colas/bin/Debug/net7.0/e002_Colas.pdb
+/home/angela/Escritorio/Apps/e002_Colas/obj/Debug/net7.0/e002_Colas.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e002_Colas/obj/Debug/net7.0/e002_Colas.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e002_Colas/obj/Debug/net7.0/e002_Colas.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e002_Colas/obj/Debug/net7.0/e002_Colas.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e002_Colas/obj/Debug/net7.0/e002_Colas.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e002_Colas/obj/Debug/net7.0/e002_Colas.dll
+/home/angela/Escritorio/Apps/e002_Colas/obj/Debug/net7.0/refint/e002_Colas.dll
+/home/angela/Escritorio/Apps/e002_Colas/obj/Debug/net7.0/e002_Colas.pdb
+/home/angela/Escritorio/Apps/e002_Colas/obj/Debug/net7.0/e002_Colas.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e002_Colas/obj/Debug/net7.0/ref/e002_Colas.dll
