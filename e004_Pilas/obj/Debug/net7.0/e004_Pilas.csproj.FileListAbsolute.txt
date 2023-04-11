@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e004_Pilas/bin/Debug/net7.0/e004_Pilas
+/home/angela/Escritorio/Apps/e004_Pilas/bin/Debug/net7.0/e004_Pilas.deps.json
+/home/angela/Escritorio/Apps/e004_Pilas/bin/Debug/net7.0/e004_Pilas.runtimeconfig.json
+/home/angela/Escritorio/Apps/e004_Pilas/bin/Debug/net7.0/e004_Pilas.dll
+/home/angela/Escritorio/Apps/e004_Pilas/bin/Debug/net7.0/e004_Pilas.pdb
+/home/angela/Escritorio/Apps/e004_Pilas/obj/Debug/net7.0/e004_Pilas.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e004_Pilas/obj/Debug/net7.0/e004_Pilas.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e004_Pilas/obj/Debug/net7.0/e004_Pilas.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e004_Pilas/obj/Debug/net7.0/e004_Pilas.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e004_Pilas/obj/Debug/net7.0/e004_Pilas.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e004_Pilas/obj/Debug/net7.0/e004_Pilas.dll
+/home/angela/Escritorio/Apps/e004_Pilas/obj/Debug/net7.0/refint/e004_Pilas.dll
+/home/angela/Escritorio/Apps/e004_Pilas/obj/Debug/net7.0/e004_Pilas.pdb
+/home/angela/Escritorio/Apps/e004_Pilas/obj/Debug/net7.0/e004_Pilas.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e004_Pilas/obj/Debug/net7.0/ref/e004_Pilas.dll
