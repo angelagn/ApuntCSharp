@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e013_StackPila/bin/Debug/net7.0/e013_StackPila
+/home/angela/Escritorio/Apps/e013_StackPila/bin/Debug/net7.0/e013_StackPila.deps.json
+/home/angela/Escritorio/Apps/e013_StackPila/bin/Debug/net7.0/e013_StackPila.runtimeconfig.json
+/home/angela/Escritorio/Apps/e013_StackPila/bin/Debug/net7.0/e013_StackPila.dll
+/home/angela/Escritorio/Apps/e013_StackPila/bin/Debug/net7.0/e013_StackPila.pdb
+/home/angela/Escritorio/Apps/e013_StackPila/obj/Debug/net7.0/e013_StackPila.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e013_StackPila/obj/Debug/net7.0/e013_StackPila.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e013_StackPila/obj/Debug/net7.0/e013_StackPila.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e013_StackPila/obj/Debug/net7.0/e013_StackPila.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e013_StackPila/obj/Debug/net7.0/e013_StackPila.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e013_StackPila/obj/Debug/net7.0/e013_StackPila.dll
+/home/angela/Escritorio/Apps/e013_StackPila/obj/Debug/net7.0/refint/e013_StackPila.dll
+/home/angela/Escritorio/Apps/e013_StackPila/obj/Debug/net7.0/e013_StackPila.pdb
+/home/angela/Escritorio/Apps/e013_StackPila/obj/Debug/net7.0/e013_StackPila.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e013_StackPila/obj/Debug/net7.0/ref/e013_StackPila.dll

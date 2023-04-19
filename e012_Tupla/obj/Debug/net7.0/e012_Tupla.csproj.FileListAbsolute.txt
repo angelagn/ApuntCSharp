@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e012_Tupla/bin/Debug/net7.0/e012_Tupla
+/home/angela/Escritorio/Apps/e012_Tupla/bin/Debug/net7.0/e012_Tupla.deps.json
+/home/angela/Escritorio/Apps/e012_Tupla/bin/Debug/net7.0/e012_Tupla.runtimeconfig.json
+/home/angela/Escritorio/Apps/e012_Tupla/bin/Debug/net7.0/e012_Tupla.dll
+/home/angela/Escritorio/Apps/e012_Tupla/bin/Debug/net7.0/e012_Tupla.pdb
+/home/angela/Escritorio/Apps/e012_Tupla/obj/Debug/net7.0/e012_Tupla.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e012_Tupla/obj/Debug/net7.0/e012_Tupla.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e012_Tupla/obj/Debug/net7.0/e012_Tupla.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e012_Tupla/obj/Debug/net7.0/e012_Tupla.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e012_Tupla/obj/Debug/net7.0/e012_Tupla.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e012_Tupla/obj/Debug/net7.0/e012_Tupla.dll
+/home/angela/Escritorio/Apps/e012_Tupla/obj/Debug/net7.0/refint/e012_Tupla.dll
+/home/angela/Escritorio/Apps/e012_Tupla/obj/Debug/net7.0/e012_Tupla.pdb
+/home/angela/Escritorio/Apps/e012_Tupla/obj/Debug/net7.0/e012_Tupla.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e012_Tupla/obj/Debug/net7.0/ref/e012_Tupla.dll

@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/bin/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/bin/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.deps.json
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/bin/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.runtimeconfig.json
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/bin/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.dll
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/bin/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.pdb
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/obj/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/obj/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/obj/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/obj/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/obj/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/obj/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.dll
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/obj/Debug/net7.0/refint/e010_DatosAutoescuelaArrayDeStruct.dll
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/obj/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.pdb
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/obj/Debug/net7.0/e010_DatosAutoescuelaArrayDeStruct.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e010_DatosAutoescuelaArrayDeStruct/obj/Debug/net7.0/ref/e010_DatosAutoescuelaArrayDeStruct.dll

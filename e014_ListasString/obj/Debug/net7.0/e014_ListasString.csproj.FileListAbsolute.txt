@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e014_ListasString/bin/Debug/net7.0/e014_ListasString
+/home/angela/Escritorio/Apps/e014_ListasString/bin/Debug/net7.0/e014_ListasString.deps.json
+/home/angela/Escritorio/Apps/e014_ListasString/bin/Debug/net7.0/e014_ListasString.runtimeconfig.json
+/home/angela/Escritorio/Apps/e014_ListasString/bin/Debug/net7.0/e014_ListasString.dll
+/home/angela/Escritorio/Apps/e014_ListasString/bin/Debug/net7.0/e014_ListasString.pdb
+/home/angela/Escritorio/Apps/e014_ListasString/obj/Debug/net7.0/e014_ListasString.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e014_ListasString/obj/Debug/net7.0/e014_ListasString.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e014_ListasString/obj/Debug/net7.0/e014_ListasString.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e014_ListasString/obj/Debug/net7.0/e014_ListasString.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e014_ListasString/obj/Debug/net7.0/e014_ListasString.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e014_ListasString/obj/Debug/net7.0/e014_ListasString.dll
+/home/angela/Escritorio/Apps/e014_ListasString/obj/Debug/net7.0/refint/e014_ListasString.dll
+/home/angela/Escritorio/Apps/e014_ListasString/obj/Debug/net7.0/e014_ListasString.pdb
+/home/angela/Escritorio/Apps/e014_ListasString/obj/Debug/net7.0/e014_ListasString.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e014_ListasString/obj/Debug/net7.0/ref/e014_ListasString.dll
