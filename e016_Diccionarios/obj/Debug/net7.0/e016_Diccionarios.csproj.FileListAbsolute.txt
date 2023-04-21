@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e016_Diccionarios/bin/Debug/net7.0/e016_Diccionarios
+/home/angela/Escritorio/Apps/e016_Diccionarios/bin/Debug/net7.0/e016_Diccionarios.deps.json
+/home/angela/Escritorio/Apps/e016_Diccionarios/bin/Debug/net7.0/e016_Diccionarios.runtimeconfig.json
+/home/angela/Escritorio/Apps/e016_Diccionarios/bin/Debug/net7.0/e016_Diccionarios.dll
+/home/angela/Escritorio/Apps/e016_Diccionarios/bin/Debug/net7.0/e016_Diccionarios.pdb
+/home/angela/Escritorio/Apps/e016_Diccionarios/obj/Debug/net7.0/e016_Diccionarios.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e016_Diccionarios/obj/Debug/net7.0/e016_Diccionarios.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e016_Diccionarios/obj/Debug/net7.0/e016_Diccionarios.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e016_Diccionarios/obj/Debug/net7.0/e016_Diccionarios.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e016_Diccionarios/obj/Debug/net7.0/e016_Diccionarios.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e016_Diccionarios/obj/Debug/net7.0/e016_Diccionarios.dll
+/home/angela/Escritorio/Apps/e016_Diccionarios/obj/Debug/net7.0/refint/e016_Diccionarios.dll
+/home/angela/Escritorio/Apps/e016_Diccionarios/obj/Debug/net7.0/e016_Diccionarios.pdb
+/home/angela/Escritorio/Apps/e016_Diccionarios/obj/Debug/net7.0/e016_Diccionarios.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e016_Diccionarios/obj/Debug/net7.0/ref/e016_Diccionarios.dll

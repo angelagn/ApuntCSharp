@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e015_ListaAArray/bin/Debug/net7.0/e015_ListaAArray
+/home/angela/Escritorio/Apps/e015_ListaAArray/bin/Debug/net7.0/e015_ListaAArray.deps.json
+/home/angela/Escritorio/Apps/e015_ListaAArray/bin/Debug/net7.0/e015_ListaAArray.runtimeconfig.json
+/home/angela/Escritorio/Apps/e015_ListaAArray/bin/Debug/net7.0/e015_ListaAArray.dll
+/home/angela/Escritorio/Apps/e015_ListaAArray/bin/Debug/net7.0/e015_ListaAArray.pdb
+/home/angela/Escritorio/Apps/e015_ListaAArray/obj/Debug/net7.0/e015_ListaAArray.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e015_ListaAArray/obj/Debug/net7.0/e015_ListaAArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e015_ListaAArray/obj/Debug/net7.0/e015_ListaAArray.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e015_ListaAArray/obj/Debug/net7.0/e015_ListaAArray.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e015_ListaAArray/obj/Debug/net7.0/e015_ListaAArray.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e015_ListaAArray/obj/Debug/net7.0/e015_ListaAArray.dll
+/home/angela/Escritorio/Apps/e015_ListaAArray/obj/Debug/net7.0/refint/e015_ListaAArray.dll
+/home/angela/Escritorio/Apps/e015_ListaAArray/obj/Debug/net7.0/e015_ListaAArray.pdb
+/home/angela/Escritorio/Apps/e015_ListaAArray/obj/Debug/net7.0/e015_ListaAArray.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e015_ListaAArray/obj/Debug/net7.0/ref/e015_ListaAArray.dll

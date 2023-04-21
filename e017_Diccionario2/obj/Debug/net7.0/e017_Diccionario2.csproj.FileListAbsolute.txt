@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e017_Diccionario2/obj/Debug/net7.0/e017_Diccionario2.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e017_Diccionario2/obj/Debug/net7.0/e017_Diccionario2.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e017_Diccionario2/obj/Debug/net7.0/e017_Diccionario2.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e017_Diccionario2/obj/Debug/net7.0/e017_Diccionario2.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e017_Diccionario2/obj/Debug/net7.0/e017_Diccionario2.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e017_Diccionario2/bin/Debug/net7.0/e017_Diccionario2
+/home/angela/Escritorio/Apps/e017_Diccionario2/bin/Debug/net7.0/e017_Diccionario2.deps.json
+/home/angela/Escritorio/Apps/e017_Diccionario2/bin/Debug/net7.0/e017_Diccionario2.runtimeconfig.json
+/home/angela/Escritorio/Apps/e017_Diccionario2/bin/Debug/net7.0/e017_Diccionario2.dll
+/home/angela/Escritorio/Apps/e017_Diccionario2/bin/Debug/net7.0/e017_Diccionario2.pdb
+/home/angela/Escritorio/Apps/e017_Diccionario2/obj/Debug/net7.0/e017_Diccionario2.dll
+/home/angela/Escritorio/Apps/e017_Diccionario2/obj/Debug/net7.0/refint/e017_Diccionario2.dll
+/home/angela/Escritorio/Apps/e017_Diccionario2/obj/Debug/net7.0/e017_Diccionario2.pdb
+/home/angela/Escritorio/Apps/e017_Diccionario2/obj/Debug/net7.0/e017_Diccionario2.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e017_Diccionario2/obj/Debug/net7.0/ref/e017_Diccionario2.dll
