@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/bin/Debug/net7.0/p014_HerencaPolimorfismo
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/bin/Debug/net7.0/p014_HerencaPolimorfismo.deps.json
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/bin/Debug/net7.0/p014_HerencaPolimorfismo.runtimeconfig.json
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/bin/Debug/net7.0/p014_HerencaPolimorfismo.dll
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/bin/Debug/net7.0/p014_HerencaPolimorfismo.pdb
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/obj/Debug/net7.0/p014_HerencaPolimorfismo.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/obj/Debug/net7.0/p014_HerencaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/obj/Debug/net7.0/p014_HerencaPolimorfismo.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/obj/Debug/net7.0/p014_HerencaPolimorfismo.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/obj/Debug/net7.0/p014_HerencaPolimorfismo.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/obj/Debug/net7.0/p014_HerencaPolimorfismo.dll
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/obj/Debug/net7.0/refint/p014_HerencaPolimorfismo.dll
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/obj/Debug/net7.0/p014_HerencaPolimorfismo.pdb
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/obj/Debug/net7.0/p014_HerencaPolimorfismo.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p014_HerencaPolimorfismo/obj/Debug/net7.0/ref/p014_HerencaPolimorfismo.dll
