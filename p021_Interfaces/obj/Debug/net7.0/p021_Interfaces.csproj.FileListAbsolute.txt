@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p021_Interfaces/bin/Debug/net7.0/p021_Interfaces
+/home/angela/Escritorio/Apps/p021_Interfaces/bin/Debug/net7.0/p021_Interfaces.deps.json
+/home/angela/Escritorio/Apps/p021_Interfaces/bin/Debug/net7.0/p021_Interfaces.runtimeconfig.json
+/home/angela/Escritorio/Apps/p021_Interfaces/bin/Debug/net7.0/p021_Interfaces.dll
+/home/angela/Escritorio/Apps/p021_Interfaces/bin/Debug/net7.0/p021_Interfaces.pdb
+/home/angela/Escritorio/Apps/p021_Interfaces/obj/Debug/net7.0/p021_Interfaces.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p021_Interfaces/obj/Debug/net7.0/p021_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p021_Interfaces/obj/Debug/net7.0/p021_Interfaces.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p021_Interfaces/obj/Debug/net7.0/p021_Interfaces.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p021_Interfaces/obj/Debug/net7.0/p021_Interfaces.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p021_Interfaces/obj/Debug/net7.0/p021_Interfaces.dll
+/home/angela/Escritorio/Apps/p021_Interfaces/obj/Debug/net7.0/refint/p021_Interfaces.dll
+/home/angela/Escritorio/Apps/p021_Interfaces/obj/Debug/net7.0/p021_Interfaces.pdb
+/home/angela/Escritorio/Apps/p021_Interfaces/obj/Debug/net7.0/p021_Interfaces.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p021_Interfaces/obj/Debug/net7.0/ref/p021_Interfaces.dll

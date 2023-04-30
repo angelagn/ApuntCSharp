@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p023_Sobrecarga/bin/Debug/net7.0/p023_Sobrecarga
+/home/angela/Escritorio/Apps/p023_Sobrecarga/bin/Debug/net7.0/p023_Sobrecarga.deps.json
+/home/angela/Escritorio/Apps/p023_Sobrecarga/bin/Debug/net7.0/p023_Sobrecarga.runtimeconfig.json
+/home/angela/Escritorio/Apps/p023_Sobrecarga/bin/Debug/net7.0/p023_Sobrecarga.dll
+/home/angela/Escritorio/Apps/p023_Sobrecarga/bin/Debug/net7.0/p023_Sobrecarga.pdb
+/home/angela/Escritorio/Apps/p023_Sobrecarga/obj/Debug/net7.0/p023_Sobrecarga.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p023_Sobrecarga/obj/Debug/net7.0/p023_Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p023_Sobrecarga/obj/Debug/net7.0/p023_Sobrecarga.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p023_Sobrecarga/obj/Debug/net7.0/p023_Sobrecarga.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p023_Sobrecarga/obj/Debug/net7.0/p023_Sobrecarga.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p023_Sobrecarga/obj/Debug/net7.0/p023_Sobrecarga.dll
+/home/angela/Escritorio/Apps/p023_Sobrecarga/obj/Debug/net7.0/refint/p023_Sobrecarga.dll
+/home/angela/Escritorio/Apps/p023_Sobrecarga/obj/Debug/net7.0/p023_Sobrecarga.pdb
+/home/angela/Escritorio/Apps/p023_Sobrecarga/obj/Debug/net7.0/p023_Sobrecarga.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p023_Sobrecarga/obj/Debug/net7.0/ref/p023_Sobrecarga.dll
