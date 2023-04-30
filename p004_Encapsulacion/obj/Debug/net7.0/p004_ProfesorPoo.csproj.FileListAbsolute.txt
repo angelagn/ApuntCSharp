@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p004_Encapsulacion/bin/Debug/net7.0/p004_ProfesorPoo
+/home/angela/Escritorio/Apps/p004_Encapsulacion/bin/Debug/net7.0/p004_ProfesorPoo.deps.json
+/home/angela/Escritorio/Apps/p004_Encapsulacion/bin/Debug/net7.0/p004_ProfesorPoo.runtimeconfig.json
+/home/angela/Escritorio/Apps/p004_Encapsulacion/bin/Debug/net7.0/p004_ProfesorPoo.dll
+/home/angela/Escritorio/Apps/p004_Encapsulacion/bin/Debug/net7.0/p004_ProfesorPoo.pdb
+/home/angela/Escritorio/Apps/p004_Encapsulacion/obj/Debug/net7.0/p004_ProfesorPoo.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p004_Encapsulacion/obj/Debug/net7.0/p004_ProfesorPoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p004_Encapsulacion/obj/Debug/net7.0/p004_ProfesorPoo.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p004_Encapsulacion/obj/Debug/net7.0/p004_ProfesorPoo.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p004_Encapsulacion/obj/Debug/net7.0/p004_ProfesorPoo.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p004_Encapsulacion/obj/Debug/net7.0/p004_ProfesorPoo.dll
+/home/angela/Escritorio/Apps/p004_Encapsulacion/obj/Debug/net7.0/refint/p004_ProfesorPoo.dll
+/home/angela/Escritorio/Apps/p004_Encapsulacion/obj/Debug/net7.0/p004_ProfesorPoo.pdb
+/home/angela/Escritorio/Apps/p004_Encapsulacion/obj/Debug/net7.0/p004_ProfesorPoo.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p004_Encapsulacion/obj/Debug/net7.0/ref/p004_ProfesorPoo.dll

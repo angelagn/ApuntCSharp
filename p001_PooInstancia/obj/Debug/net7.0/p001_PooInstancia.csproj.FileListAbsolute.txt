@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p001_PooInstancia/bin/Debug/net7.0/p001_PooInstancia
+/home/angela/Escritorio/Apps/p001_PooInstancia/bin/Debug/net7.0/p001_PooInstancia.deps.json
+/home/angela/Escritorio/Apps/p001_PooInstancia/bin/Debug/net7.0/p001_PooInstancia.runtimeconfig.json
+/home/angela/Escritorio/Apps/p001_PooInstancia/bin/Debug/net7.0/p001_PooInstancia.dll
+/home/angela/Escritorio/Apps/p001_PooInstancia/bin/Debug/net7.0/p001_PooInstancia.pdb
+/home/angela/Escritorio/Apps/p001_PooInstancia/obj/Debug/net7.0/p001_PooInstancia.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p001_PooInstancia/obj/Debug/net7.0/p001_PooInstancia.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p001_PooInstancia/obj/Debug/net7.0/p001_PooInstancia.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p001_PooInstancia/obj/Debug/net7.0/p001_PooInstancia.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p001_PooInstancia/obj/Debug/net7.0/p001_PooInstancia.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p001_PooInstancia/obj/Debug/net7.0/p001_PooInstancia.dll
+/home/angela/Escritorio/Apps/p001_PooInstancia/obj/Debug/net7.0/refint/p001_PooInstancia.dll
+/home/angela/Escritorio/Apps/p001_PooInstancia/obj/Debug/net7.0/p001_PooInstancia.pdb
+/home/angela/Escritorio/Apps/p001_PooInstancia/obj/Debug/net7.0/p001_PooInstancia.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p001_PooInstancia/obj/Debug/net7.0/ref/p001_PooInstancia.dll

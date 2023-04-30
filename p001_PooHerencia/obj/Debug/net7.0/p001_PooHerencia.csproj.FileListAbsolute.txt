@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p001_PooHerencia/bin/Debug/net7.0/p001_PooHerencia
+/home/angela/Escritorio/Apps/p001_PooHerencia/bin/Debug/net7.0/p001_PooHerencia.deps.json
+/home/angela/Escritorio/Apps/p001_PooHerencia/bin/Debug/net7.0/p001_PooHerencia.runtimeconfig.json
+/home/angela/Escritorio/Apps/p001_PooHerencia/bin/Debug/net7.0/p001_PooHerencia.dll
+/home/angela/Escritorio/Apps/p001_PooHerencia/bin/Debug/net7.0/p001_PooHerencia.pdb
+/home/angela/Escritorio/Apps/p001_PooHerencia/obj/Debug/net7.0/p001_PooHerencia.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p001_PooHerencia/obj/Debug/net7.0/p001_PooHerencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p001_PooHerencia/obj/Debug/net7.0/p001_PooHerencia.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p001_PooHerencia/obj/Debug/net7.0/p001_PooHerencia.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p001_PooHerencia/obj/Debug/net7.0/p001_PooHerencia.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p001_PooHerencia/obj/Debug/net7.0/p001_PooHerencia.dll
+/home/angela/Escritorio/Apps/p001_PooHerencia/obj/Debug/net7.0/refint/p001_PooHerencia.dll
+/home/angela/Escritorio/Apps/p001_PooHerencia/obj/Debug/net7.0/p001_PooHerencia.pdb
+/home/angela/Escritorio/Apps/p001_PooHerencia/obj/Debug/net7.0/p001_PooHerencia.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p001_PooHerencia/obj/Debug/net7.0/ref/p001_PooHerencia.dll
