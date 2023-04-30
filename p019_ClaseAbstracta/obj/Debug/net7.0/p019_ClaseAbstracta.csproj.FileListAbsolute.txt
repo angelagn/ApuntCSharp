@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/bin/Debug/net7.0/p019_ClaseAbstracta
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/bin/Debug/net7.0/p019_ClaseAbstracta.deps.json
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/bin/Debug/net7.0/p019_ClaseAbstracta.runtimeconfig.json
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/bin/Debug/net7.0/p019_ClaseAbstracta.dll
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/bin/Debug/net7.0/p019_ClaseAbstracta.pdb
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/obj/Debug/net7.0/p019_ClaseAbstracta.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/obj/Debug/net7.0/p019_ClaseAbstracta.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/obj/Debug/net7.0/p019_ClaseAbstracta.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/obj/Debug/net7.0/p019_ClaseAbstracta.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/obj/Debug/net7.0/p019_ClaseAbstracta.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/obj/Debug/net7.0/p019_ClaseAbstracta.dll
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/obj/Debug/net7.0/refint/p019_ClaseAbstracta.dll
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/obj/Debug/net7.0/p019_ClaseAbstracta.pdb
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/obj/Debug/net7.0/p019_ClaseAbstracta.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p019_ClaseAbstracta/obj/Debug/net7.0/ref/p019_ClaseAbstracta.dll

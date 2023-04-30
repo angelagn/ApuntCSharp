@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/obj/Debug/net7.0/p017_HerenciaVehiculo.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/obj/Debug/net7.0/p017_HerenciaVehiculo.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/obj/Debug/net7.0/p017_HerenciaVehiculo.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/obj/Debug/net7.0/p017_HerenciaVehiculo.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/obj/Debug/net7.0/p017_HerenciaVehiculo.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/bin/Debug/net7.0/p017_HerenciaVehiculo
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/bin/Debug/net7.0/p017_HerenciaVehiculo.deps.json
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/bin/Debug/net7.0/p017_HerenciaVehiculo.runtimeconfig.json
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/bin/Debug/net7.0/p017_HerenciaVehiculo.dll
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/bin/Debug/net7.0/p017_HerenciaVehiculo.pdb
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/obj/Debug/net7.0/p017_HerenciaVehiculo.dll
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/obj/Debug/net7.0/refint/p017_HerenciaVehiculo.dll
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/obj/Debug/net7.0/p017_HerenciaVehiculo.pdb
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/obj/Debug/net7.0/p017_HerenciaVehiculo.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p017_HerenciaVehiculo/obj/Debug/net7.0/ref/p017_HerenciaVehiculo.dll

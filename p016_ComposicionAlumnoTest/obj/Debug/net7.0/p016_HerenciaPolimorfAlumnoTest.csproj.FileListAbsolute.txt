@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/obj/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/obj/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/obj/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/obj/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/obj/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/bin/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/bin/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.deps.json
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/bin/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.runtimeconfig.json
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/bin/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.dll
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/bin/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.pdb
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/obj/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.dll
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/obj/Debug/net7.0/refint/p016_HerenciaPolimorfAlumnoTest.dll
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/obj/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.pdb
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/obj/Debug/net7.0/p016_HerenciaPolimorfAlumnoTest.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p016_ComposicionAlumnoTest/obj/Debug/net7.0/ref/p016_HerenciaPolimorfAlumnoTest.dll
