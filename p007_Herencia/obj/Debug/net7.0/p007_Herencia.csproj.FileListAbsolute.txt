@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p007_Herencia/bin/Debug/net7.0/p007_Herencia
+/home/angela/Escritorio/Apps/p007_Herencia/bin/Debug/net7.0/p007_Herencia.deps.json
+/home/angela/Escritorio/Apps/p007_Herencia/bin/Debug/net7.0/p007_Herencia.runtimeconfig.json
+/home/angela/Escritorio/Apps/p007_Herencia/bin/Debug/net7.0/p007_Herencia.dll
+/home/angela/Escritorio/Apps/p007_Herencia/bin/Debug/net7.0/p007_Herencia.pdb
+/home/angela/Escritorio/Apps/p007_Herencia/obj/Debug/net7.0/p007_Herencia.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p007_Herencia/obj/Debug/net7.0/p007_Herencia.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p007_Herencia/obj/Debug/net7.0/p007_Herencia.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p007_Herencia/obj/Debug/net7.0/p007_Herencia.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p007_Herencia/obj/Debug/net7.0/p007_Herencia.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p007_Herencia/obj/Debug/net7.0/p007_Herencia.dll
+/home/angela/Escritorio/Apps/p007_Herencia/obj/Debug/net7.0/refint/p007_Herencia.dll
+/home/angela/Escritorio/Apps/p007_Herencia/obj/Debug/net7.0/p007_Herencia.pdb
+/home/angela/Escritorio/Apps/p007_Herencia/obj/Debug/net7.0/p007_Herencia.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p007_Herencia/obj/Debug/net7.0/ref/p007_Herencia.dll
