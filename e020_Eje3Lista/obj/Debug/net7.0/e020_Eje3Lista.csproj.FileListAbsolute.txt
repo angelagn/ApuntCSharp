@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/e020_Eje3Lista/bin/Debug/net7.0/e020_Eje3Lista
+/home/angela/Escritorio/Apps/e020_Eje3Lista/bin/Debug/net7.0/e020_Eje3Lista.deps.json
+/home/angela/Escritorio/Apps/e020_Eje3Lista/bin/Debug/net7.0/e020_Eje3Lista.runtimeconfig.json
+/home/angela/Escritorio/Apps/e020_Eje3Lista/bin/Debug/net7.0/e020_Eje3Lista.dll
+/home/angela/Escritorio/Apps/e020_Eje3Lista/bin/Debug/net7.0/e020_Eje3Lista.pdb
+/home/angela/Escritorio/Apps/e020_Eje3Lista/obj/Debug/net7.0/e020_Eje3Lista.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/e020_Eje3Lista/obj/Debug/net7.0/e020_Eje3Lista.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/e020_Eje3Lista/obj/Debug/net7.0/e020_Eje3Lista.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/e020_Eje3Lista/obj/Debug/net7.0/e020_Eje3Lista.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/e020_Eje3Lista/obj/Debug/net7.0/e020_Eje3Lista.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/e020_Eje3Lista/obj/Debug/net7.0/e020_Eje3Lista.dll
+/home/angela/Escritorio/Apps/e020_Eje3Lista/obj/Debug/net7.0/refint/e020_Eje3Lista.dll
+/home/angela/Escritorio/Apps/e020_Eje3Lista/obj/Debug/net7.0/e020_Eje3Lista.pdb
+/home/angela/Escritorio/Apps/e020_Eje3Lista/obj/Debug/net7.0/e020_Eje3Lista.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/e020_Eje3Lista/obj/Debug/net7.0/ref/e020_Eje3Lista.dll
