@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p024_Polimorfismo/bin/Debug/net7.0/p024_Polimorfismo
+/home/angela/Escritorio/Apps/p024_Polimorfismo/bin/Debug/net7.0/p024_Polimorfismo.deps.json
+/home/angela/Escritorio/Apps/p024_Polimorfismo/bin/Debug/net7.0/p024_Polimorfismo.runtimeconfig.json
+/home/angela/Escritorio/Apps/p024_Polimorfismo/bin/Debug/net7.0/p024_Polimorfismo.dll
+/home/angela/Escritorio/Apps/p024_Polimorfismo/bin/Debug/net7.0/p024_Polimorfismo.pdb
+/home/angela/Escritorio/Apps/p024_Polimorfismo/obj/Debug/net7.0/p024_Polimorfismo.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p024_Polimorfismo/obj/Debug/net7.0/p024_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p024_Polimorfismo/obj/Debug/net7.0/p024_Polimorfismo.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p024_Polimorfismo/obj/Debug/net7.0/p024_Polimorfismo.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p024_Polimorfismo/obj/Debug/net7.0/p024_Polimorfismo.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p024_Polimorfismo/obj/Debug/net7.0/p024_Polimorfismo.dll
+/home/angela/Escritorio/Apps/p024_Polimorfismo/obj/Debug/net7.0/refint/p024_Polimorfismo.dll
+/home/angela/Escritorio/Apps/p024_Polimorfismo/obj/Debug/net7.0/p024_Polimorfismo.pdb
+/home/angela/Escritorio/Apps/p024_Polimorfismo/obj/Debug/net7.0/p024_Polimorfismo.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p024_Polimorfismo/obj/Debug/net7.0/ref/p024_Polimorfismo.dll

@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p027_Punto14Examen/bin/Debug/net7.0/p027_Punto14Examen
+/home/angela/Escritorio/Apps/p027_Punto14Examen/bin/Debug/net7.0/p027_Punto14Examen.deps.json
+/home/angela/Escritorio/Apps/p027_Punto14Examen/bin/Debug/net7.0/p027_Punto14Examen.runtimeconfig.json
+/home/angela/Escritorio/Apps/p027_Punto14Examen/bin/Debug/net7.0/p027_Punto14Examen.dll
+/home/angela/Escritorio/Apps/p027_Punto14Examen/bin/Debug/net7.0/p027_Punto14Examen.pdb
+/home/angela/Escritorio/Apps/p027_Punto14Examen/obj/Debug/net7.0/p027_Punto14Examen.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p027_Punto14Examen/obj/Debug/net7.0/p027_Punto14Examen.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p027_Punto14Examen/obj/Debug/net7.0/p027_Punto14Examen.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p027_Punto14Examen/obj/Debug/net7.0/p027_Punto14Examen.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p027_Punto14Examen/obj/Debug/net7.0/p027_Punto14Examen.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p027_Punto14Examen/obj/Debug/net7.0/p027_Punto14Examen.dll
+/home/angela/Escritorio/Apps/p027_Punto14Examen/obj/Debug/net7.0/refint/p027_Punto14Examen.dll
+/home/angela/Escritorio/Apps/p027_Punto14Examen/obj/Debug/net7.0/p027_Punto14Examen.pdb
+/home/angela/Escritorio/Apps/p027_Punto14Examen/obj/Debug/net7.0/p027_Punto14Examen.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p027_Punto14Examen/obj/Debug/net7.0/ref/p027_Punto14Examen.dll

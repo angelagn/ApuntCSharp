@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p025_Musica/obj/Debug/net7.0/p025_Musica.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p025_Musica/obj/Debug/net7.0/p025_Musica.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p025_Musica/obj/Debug/net7.0/p025_Musica.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p025_Musica/obj/Debug/net7.0/p025_Musica.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p025_Musica/obj/Debug/net7.0/p025_Musica.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p025_Musica/bin/Debug/net7.0/p025_Musica
+/home/angela/Escritorio/Apps/p025_Musica/bin/Debug/net7.0/p025_Musica.deps.json
+/home/angela/Escritorio/Apps/p025_Musica/bin/Debug/net7.0/p025_Musica.runtimeconfig.json
+/home/angela/Escritorio/Apps/p025_Musica/bin/Debug/net7.0/p025_Musica.dll
+/home/angela/Escritorio/Apps/p025_Musica/bin/Debug/net7.0/p025_Musica.pdb
+/home/angela/Escritorio/Apps/p025_Musica/obj/Debug/net7.0/p025_Musica.dll
+/home/angela/Escritorio/Apps/p025_Musica/obj/Debug/net7.0/refint/p025_Musica.dll
+/home/angela/Escritorio/Apps/p025_Musica/obj/Debug/net7.0/p025_Musica.pdb
+/home/angela/Escritorio/Apps/p025_Musica/obj/Debug/net7.0/p025_Musica.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p025_Musica/obj/Debug/net7.0/ref/p025_Musica.dll
