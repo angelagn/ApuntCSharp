@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p029_SaveArchivo/obj/Debug/net7.0/p029_SaveArchivo.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p029_SaveArchivo/obj/Debug/net7.0/p029_SaveArchivo.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p029_SaveArchivo/obj/Debug/net7.0/p029_SaveArchivo.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p029_SaveArchivo/obj/Debug/net7.0/p029_SaveArchivo.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p029_SaveArchivo/obj/Debug/net7.0/p029_SaveArchivo.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p029_SaveArchivo/bin/Debug/net7.0/p029_SaveArchivo
+/home/angela/Escritorio/Apps/p029_SaveArchivo/bin/Debug/net7.0/p029_SaveArchivo.deps.json
+/home/angela/Escritorio/Apps/p029_SaveArchivo/bin/Debug/net7.0/p029_SaveArchivo.runtimeconfig.json
+/home/angela/Escritorio/Apps/p029_SaveArchivo/bin/Debug/net7.0/p029_SaveArchivo.dll
+/home/angela/Escritorio/Apps/p029_SaveArchivo/bin/Debug/net7.0/p029_SaveArchivo.pdb
+/home/angela/Escritorio/Apps/p029_SaveArchivo/obj/Debug/net7.0/p029_SaveArchivo.dll
+/home/angela/Escritorio/Apps/p029_SaveArchivo/obj/Debug/net7.0/refint/p029_SaveArchivo.dll
+/home/angela/Escritorio/Apps/p029_SaveArchivo/obj/Debug/net7.0/p029_SaveArchivo.pdb
+/home/angela/Escritorio/Apps/p029_SaveArchivo/obj/Debug/net7.0/p029_SaveArchivo.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p029_SaveArchivo/obj/Debug/net7.0/ref/p029_SaveArchivo.dll

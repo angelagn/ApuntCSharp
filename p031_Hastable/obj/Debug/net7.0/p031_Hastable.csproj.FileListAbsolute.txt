@@ -1,0 +1,15 @@
+/home/angela/Escritorio/Apps/p031_Hastable/bin/Debug/net7.0/p031_Hastable
+/home/angela/Escritorio/Apps/p031_Hastable/bin/Debug/net7.0/p031_Hastable.deps.json
+/home/angela/Escritorio/Apps/p031_Hastable/bin/Debug/net7.0/p031_Hastable.runtimeconfig.json
+/home/angela/Escritorio/Apps/p031_Hastable/bin/Debug/net7.0/p031_Hastable.dll
+/home/angela/Escritorio/Apps/p031_Hastable/bin/Debug/net7.0/p031_Hastable.pdb
+/home/angela/Escritorio/Apps/p031_Hastable/obj/Debug/net7.0/p031_Hastable.csproj.AssemblyReference.cache
+/home/angela/Escritorio/Apps/p031_Hastable/obj/Debug/net7.0/p031_Hastable.GeneratedMSBuildEditorConfig.editorconfig
+/home/angela/Escritorio/Apps/p031_Hastable/obj/Debug/net7.0/p031_Hastable.AssemblyInfoInputs.cache
+/home/angela/Escritorio/Apps/p031_Hastable/obj/Debug/net7.0/p031_Hastable.AssemblyInfo.cs
+/home/angela/Escritorio/Apps/p031_Hastable/obj/Debug/net7.0/p031_Hastable.csproj.CoreCompileInputs.cache
+/home/angela/Escritorio/Apps/p031_Hastable/obj/Debug/net7.0/p031_Hastable.dll
+/home/angela/Escritorio/Apps/p031_Hastable/obj/Debug/net7.0/refint/p031_Hastable.dll
+/home/angela/Escritorio/Apps/p031_Hastable/obj/Debug/net7.0/p031_Hastable.pdb
+/home/angela/Escritorio/Apps/p031_Hastable/obj/Debug/net7.0/p031_Hastable.genruntimeconfig.cache
+/home/angela/Escritorio/Apps/p031_Hastable/obj/Debug/net7.0/ref/p031_Hastable.dll
